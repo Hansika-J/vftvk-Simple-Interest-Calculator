@@ -1,4 +1,33 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+        background-color:black;
+        font-family:arial;
+        color:white;
+    }
+h1{
+    color:grey;
+    font-family:verdana;
+    font-size: x-large;
+    }
+.maindiv{
+    background-color:white;
+    color:black;
+    width:400px;
+    padding:20px;
+    border-radius:25px;
+    height: 250px;
+    /*text-align: center;*/
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+
+.labels{
+    text-align: center;
+    margin-left: 5px;
+}
+
+.cl{
+    background-color: yellow;
+}
 
 
